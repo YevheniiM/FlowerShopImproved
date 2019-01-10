@@ -1,0 +1,11 @@
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\bin\Debug\netcoreapp2.0\FlowerShop.deps.json
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\bin\Debug\netcoreapp2.0\FlowerShop.runtimeconfig.json
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\bin\Debug\netcoreapp2.0\FlowerShop.runtimeconfig.dev.json
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\bin\Debug\netcoreapp2.0\FlowerShop.dll
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\bin\Debug\netcoreapp2.0\FlowerShop.pdb
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\obj\Debug\netcoreapp2.0\FlowerShop.csprojAssemblyReference.cache
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\obj\Debug\netcoreapp2.0\FlowerShop.csproj.CoreCompileInputs.cache
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\obj\Debug\netcoreapp2.0\FlowerShop.AssemblyInfoInputs.cache
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\obj\Debug\netcoreapp2.0\FlowerShop.AssemblyInfo.cs
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\obj\Debug\netcoreapp2.0\FlowerShop.dll
+D:\Study\Programing\dotNet\FlowerShop\FlowerShop\obj\Debug\netcoreapp2.0\FlowerShop.pdb
